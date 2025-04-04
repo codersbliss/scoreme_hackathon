@@ -4,7 +4,7 @@ A lightweight Python tool to extract tabular data from system-generated PDFs and
 
 **🔗 GitHub Repository**: [https://github.com/codersbliss/scoreme_hackathon](https://github.com/codersbliss/scoreme_hackathon)
 
-**🔗  Presentation File**: [https://docs.google.com/presentation/d/1WA5K4Aa7p0yFbrAmEU7MEM-PU58eOPFD/edit?usp=sharing&ouid=108849095306524663572&rtpof=true&sd=true](https://docs.google.com/presentation/d/1WA5K4Aa7p0yFbrAmEU7MEM-PU58eOPFD/edit?usp=sharing&ouid=108849095306524663572&rtpof=true&sd=true)
+**🔗  PRESENTATION FILE**: [https://docs.google.com/presentation/d/1WA5K4Aa7p0yFbrAmEU7MEM-PU58eOPFD/edit?usp=sharing&ouid=108849095306524663572&rtpof=true&sd=true](https://docs.google.com/presentation/d/1WA5K4Aa7p0yFbrAmEU7MEM-PU58eOPFD/edit?usp=sharing&ouid=108849095306524663572&rtpof=true&sd=true)
 
 **🔗 OUTPUT EXCEL FILE**: [https://drive.google.com/drive/folders/1y3hN5p28K6C9jaizybiKdsTgrQnt9vxu?usp=sharing](https://drive.google.com/drive/folders/1y3hN5p28K6C9jaizybiKdsTgrQnt9vxu?usp=sharing)
 
