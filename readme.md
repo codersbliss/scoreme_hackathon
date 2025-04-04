@@ -6,6 +6,8 @@ A lightweight Python tool to extract tabular data from system-generated PDFs and
 
 **🔗  PRESENTATION FILE**: [https://docs.google.com/presentation/d/1WA5K4Aa7p0yFbrAmEU7MEM-PU58eOPFD/edit?usp=sharing&ouid=108849095306524663572&rtpof=true&sd=true](https://docs.google.com/presentation/d/1WA5K4Aa7p0yFbrAmEU7MEM-PU58eOPFD/edit?usp=sharing&ouid=108849095306524663572&rtpof=true&sd=true)
 
+**🔗 SAMPLE PDF FILE**: [[https://drive.google.com/drive/folders/1y3hN5p28K6C9jaizybiKdsTgrQnt9vxu?usp=sharing](https://drive.google.com/drive/folders/1y3hN5p28K6C9jaizybiKdsTgrQnt9vxu?usp=sharing)
+
 **🔗 OUTPUT EXCEL FILE**: [https://drive.google.com/drive/folders/1y3hN5p28K6C9jaizybiKdsTgrQnt9vxu?usp=sharing](https://drive.google.com/drive/folders/1y3hN5p28K6C9jaizybiKdsTgrQnt9vxu?usp=sharing)
 
 
