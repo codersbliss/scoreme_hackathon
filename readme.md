@@ -1,4 +1,4 @@
-# 📄 PDF Table Extractor
+# 📄 PDF TO EXCEL CONVERTOR
 
 A lightweight Python tool to extract tabular data from system-generated PDFs and save them into an Excel file — **without using Tabula or Camelot**.
 
