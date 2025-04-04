@@ -2,7 +2,7 @@
 
 A lightweight Python tool to extract tabular data from system-generated PDFs and save them into an Excel file — **without using Tabula or Camelot**.
 
-**🔗 GitHub Repository**: [https://https://github.com/codersbliss/scoreme_hackathon](https://https://github.com/codersbliss/scoreme_hackathon)
+**🔗 GitHub Repository**: [https://github.com/codersbliss/scoreme_hackathon](https://https://github.com/codersbliss/scoreme_hackathon)
 
 **🔗 DEMO Presentation**: [https://docs.google.com/presentation/d/1WA5K4Aa7p0yFbrAmEU7MEM-PU58eOPFD/edit?usp=sharing&ouid=108849095306524663572&rtpof=true&sd=true](https://docs.google.com/presentation/d/1WA5K4Aa7p0yFbrAmEU7MEM-PU58eOPFD/edit?usp=sharing&ouid=108849095306524663572&rtpof=true&sd=true)
 
